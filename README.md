@@ -7,7 +7,7 @@ Actualmente, contiene el acceso a uno de mis proyectos principales: **"De El Cai
 
 ## 🌐 Enlace al portfolio desplegado
 
-🔗 [Ver portfolio online](https://TUDIRECCION.vercel.app)  
+🔗 https://portfolio-web-aleix-a-m.vercel.app
 
 ---
 
